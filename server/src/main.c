@@ -4,5 +4,5 @@
 int main () {
   int result = util1();
   printf("%d\n", result);
-  return result;
+  return 0;
 }
