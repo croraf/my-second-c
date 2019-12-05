@@ -1,3 +1,3 @@
 
-gcc src/** -o client
-./client
+gcc src/** -o build/client
+./build/client
